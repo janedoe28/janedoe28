@@ -1,5 +1,3 @@
-## Hi :)
-
 <h2> Hello there, I'm Kaitlyn </h2>
 <p> A Front end developer </p>
 
